@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-body {
+.hiding-overflow {
     overflow-x: hidden;
 }
 
